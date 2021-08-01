@@ -1,0 +1,13 @@
+C:\Aprendendo C#\DIO_Series\bin\Debug\netcoreapp3.1\DIO_Series.exe
+C:\Aprendendo C#\DIO_Series\bin\Debug\netcoreapp3.1\DIO_Series.deps.json
+C:\Aprendendo C#\DIO_Series\bin\Debug\netcoreapp3.1\DIO_Series.runtimeconfig.json
+C:\Aprendendo C#\DIO_Series\bin\Debug\netcoreapp3.1\DIO_Series.runtimeconfig.dev.json
+C:\Aprendendo C#\DIO_Series\bin\Debug\netcoreapp3.1\DIO_Series.dll
+C:\Aprendendo C#\DIO_Series\bin\Debug\netcoreapp3.1\DIO_Series.pdb
+C:\Aprendendo C#\DIO_Series\obj\Debug\netcoreapp3.1\DIO_Series.csproj.AssemblyReference.cache
+C:\Aprendendo C#\DIO_Series\obj\Debug\netcoreapp3.1\DIO_Series.AssemblyInfoInputs.cache
+C:\Aprendendo C#\DIO_Series\obj\Debug\netcoreapp3.1\DIO_Series.AssemblyInfo.cs
+C:\Aprendendo C#\DIO_Series\obj\Debug\netcoreapp3.1\DIO_Series.csproj.CoreCompileInputs.cache
+C:\Aprendendo C#\DIO_Series\obj\Debug\netcoreapp3.1\DIO_Series.dll
+C:\Aprendendo C#\DIO_Series\obj\Debug\netcoreapp3.1\DIO_Series.pdb
+C:\Aprendendo C#\DIO_Series\obj\Debug\netcoreapp3.1\DIO_Series.genruntimeconfig.cache
